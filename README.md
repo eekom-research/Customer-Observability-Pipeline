@@ -36,14 +36,14 @@ The pipeline utilizes the following technologies:
 - **Data Visualization**: Tableau
 
 ## Insights and Trends
-![Distribution](Images/Dashboard Distributionv2.png)
+![Distribution](Images/Dashboard_Distributionv2.png)
 
 Key insights:
 - A substantial focus on electronic banking issues.
 - A prevalent negative sentiment across customer tweets.
 - Notable trends, such as increased interest in third-party agent banking during specific periods.
 
-![Time Series](Images/Time Series Topicsv1.png)
+![Time Series](Images/Time_Series_Topicsv1.png)
 
 ## License
 
